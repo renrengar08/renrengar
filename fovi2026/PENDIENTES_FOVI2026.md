@@ -36,7 +36,7 @@ Archivos en esta carpeta:
 | 2–3 publicaciones de Marlenne Macaya (6.2) | Marlenne |
 | Indicadores de excelencia de UJPA y del IPC (25% del puntaje) | Quissanga, Gouveia |
 | Dato de acceso a APS Maule vs RM (MINSAL/DEIS) y 2–3 datos de contexto sanitario con fuente (3.2, 5.1) | tú / DEIS |
-| Año del doctorado de Simone: ella escribió 2024 y corrigió a 2014 (correos del 1-oct) | Simone, Portal ANID |
+| Año del doctorado de Simone: resuelto, 2014 según su corrección explícita del 1-oct | Simone, Portal ANID |
 
 ## 5. Para el sistema ANID (7-oct, 13:00)
 Cartas en formato ANID 2026 de UCM, UJPA, IPC, UNILAB y UNESPAR (las de INTEEGRA no sirven: eran de SEGIB); CV formato ANID (máx. 5 páginas) de al menos un investigador por institución extranjera; CV actualizado en el Portal del IR, co-IR y asociados; cartas de apoyo interno de Simone; objeto social/estatutos de USACH (o confirmar que ANID los tiene); formulario, presupuesto y Gantt.
