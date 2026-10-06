@@ -74,3 +74,10 @@ Cartas en formato ANID 2026 de UCM, UJPA, IPC, UNILAB y UNESPAR (las de INTEEGRA
 - **Pendiente por el cambio:** dato de acceso a APS y contexto sanitario de la(s) región(es) asociada(s) con fuente; recalcular traslado terrestre ($300.000 estimado) según destino; si Biobío entra, evaluar el área macrozonal del Anexo 1 (cambia el posicionamiento: decisión de René; no se leyó el Anexo 1).
 - **Afirmación suavizada en 6.x:** "el Maule carece de comparaciones sistemáticas de acceso a APS" se cambió a "pueden beneficiarse de comparaciones…" por no estar respaldada.
 - **Límites de la plataforma ANID:** resumen 2.000 caracteres; objetivos 500; modalidades, resultados y actividades 3.500; solo 3 resultados; hasta 20 actividades. Los textos ingresados deben coincidir con el formulario (resumen y objetivos ya alineados en v0.4).
+
+## 10. Actualización 6-oct (tarde): la Universidad de Concepción se baja
+- La UdeC (investigadora María Elena Lagos) ya no participa. Se eliminó `Carta_UdeC_nacional_asociada_ES.docx`. La única institución nacional asociada es la **Universidad Católica del Maule** (Región del Maule), que cumple el requisito de tener una asociada de región distinta a la beneficiaria.
+- Se mantiene el título `INTEEGRA-Saúde: salud, territorio y sustentabilidad en la atención primaria` y el lenguaje abierto de regiones ("región asociada"), que sigue siendo válido con solo la UCM.
+- Si se dio de alta la UdeC o a María Elena Lagos en la plataforma ANID, hay que eliminarlas.
+- Pendiente de la UCM: nombre y RUT del representante institucional para su carta, y segundo apellido de Marlenne Macaya.
+- La alerta sobre la carta de la Decana de la UdeC ("Red INTEEGRA-Saúde…", "presentada por la académica…") queda sin efecto.

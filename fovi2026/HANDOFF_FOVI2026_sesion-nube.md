@@ -3,6 +3,7 @@
 Para el Claude de la laptop de René. Léelo antes de tocar la postulación. Complementa `ANTECEDENTES_INTEEGRA-Saude.md` y `AJUSTE_A_BASES_FOVI2026_v0.2.md` de la carpeta Drive "FOVI 2026".
 
 ## ACTUALIZACIÓN 6-oct (léela primero)
+- **La Universidad de Concepción se bajó de la propuesta.** Única institución nacional asociada: Universidad Católica del Maule (ver sección 10 de PENDIENTES). Nombre vigente del socio de Portugal: Universidade Politécnica de Coimbra (UPCoimbra).
 - Título vigente: `INTEEGRA-Saúde: salud, territorio y sustentabilidad en la atención primaria`. Los archivos vigentes son `FOVI2026_Formulario_INTEEGRA_v0.4.docx` y el xlsx actualizado (rama `claude/fovi2026-formulario`). Regiones en lenguaje abierto ("regiones asociadas") por pedido de Simone (posible institución de Biobío, sin confirmar). Ver sección 9 de `PENDIENTES_FOVI2026.md`.
 - Se está llenando la plataforma ANID (postulación #865606) a mano con textos que entrego en el chat; límites: resumen 2.000, objetivos 500, modalidades/resultados/actividades 3.500, 3 resultados, ≤20 actividades. Idioma: español (FAQ ANID 2026, punto 2.4; CV extranjeros pueden ir en inglés).
 - Todo lo de abajo describe el estado del 5-oct (v0.3).
