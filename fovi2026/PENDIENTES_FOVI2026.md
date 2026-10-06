@@ -65,3 +65,12 @@ Cartas en formato ANID 2026 de UCM, UJPA, IPC, UNILAB y UNESPAR (las de INTEEGRA
 >
 > Saludos cordiales,
 > René
+
+
+## 9. Actualización 6-oct: título y ambigüedad de regiones (decisión de René)
+- **Título vigente:** `INTEEGRA-Saúde: salud, territorio y sustentabilidad en la atención primaria` (sin "Red" y sin "Vinculación entre Santiago y el Maule…"). Motivo: Simone pide dejarlo abierto para sumar a una profesora de Biobío (institución aún no identificada; no se sabe si se suma a la UCM o la reemplaza).
+- **Archivos vigentes:** `FOVI2026_Formulario_INTEEGRA_v0.4.docx` (reemplaza a v0.3) y el xlsx actualizado. En v0.4 el destino de la jornada territorial es "una región asociada"; la UCM sigue nombrada en 1.2, 1.5, 4.1 y 6.1 por ser la institución confirmada. El Maule queda solo como ejemplo de ruralidad (26,8%, Censo 2017) y como región de la UCM.
+- **Riesgo:** las cartas de socios extranjeros pueden citar el título anterior ("Red INTEEGRA-Saúde… Maule…"). Verificar y alinear antes del cierre (7-oct 13:00).
+- **Pendiente por el cambio:** dato de acceso a APS y contexto sanitario de la(s) región(es) asociada(s) con fuente; recalcular traslado terrestre ($300.000 estimado) según destino; si Biobío entra, evaluar el área macrozonal del Anexo 1 (cambia el posicionamiento: decisión de René; no se leyó el Anexo 1).
+- **Afirmación suavizada en 6.x:** "el Maule carece de comparaciones sistemáticas de acceso a APS" se cambió a "pueden beneficiarse de comparaciones…" por no estar respaldada.
+- **Límites de la plataforma ANID:** resumen 2.000 caracteres; objetivos 500; modalidades, resultados y actividades 3.500; solo 3 resultados; hasta 20 actividades. Los textos ingresados deben coincidir con el formulario (resumen y objetivos ya alineados en v0.4).

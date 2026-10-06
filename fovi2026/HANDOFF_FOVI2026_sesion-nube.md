@@ -2,6 +2,11 @@
 
 Para el Claude de la laptop de René. Léelo antes de tocar la postulación. Complementa `ANTECEDENTES_INTEEGRA-Saude.md` y `AJUSTE_A_BASES_FOVI2026_v0.2.md` de la carpeta Drive "FOVI 2026".
 
+## ACTUALIZACIÓN 6-oct (léela primero)
+- Título vigente: `INTEEGRA-Saúde: salud, territorio y sustentabilidad en la atención primaria`. Los archivos vigentes son `FOVI2026_Formulario_INTEEGRA_v0.4.docx` y el xlsx actualizado (rama `claude/fovi2026-formulario`). Regiones en lenguaje abierto ("regiones asociadas") por pedido de Simone (posible institución de Biobío, sin confirmar). Ver sección 9 de `PENDIENTES_FOVI2026.md`.
+- Se está llenando la plataforma ANID (postulación #865606) a mano con textos que entrego en el chat; límites: resumen 2.000, objetivos 500, modalidades/resultados/actividades 3.500, 3 resultados, ≤20 actividades. Idioma: español (FAQ ANID 2026, punto 2.4; CV extranjeros pueden ir en inglés).
+- Todo lo de abajo describe el estado del 5-oct (v0.3).
+
 ## Qué se pidió y qué se hizo
 René pidió "complementar todo lo necesario para enviar el formulario FOVI 2026". Partí de `FOVI2026_Formulario_INTEEGRA_v0.2.docx` (Drive) y produje:
 - `FOVI2026_Formulario_INTEEGRA_v0.3.docx`: v0.2 corregido, mismo formato ANID (Verdana 10). Pendientes resaltados en amarillo (20 marcas).
