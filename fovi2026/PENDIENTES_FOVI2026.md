@@ -81,3 +81,9 @@ Cartas en formato ANID 2026 de UCM, UJPA, IPC, UNILAB y UNESPAR (las de INTEEGRA
 - Si se dio de alta la UdeC o a María Elena Lagos en la plataforma ANID, hay que eliminarlas.
 - Pendiente de la UCM: nombre y RUT del representante institucional para su carta, y segundo apellido de Marlenne Macaya.
 - La alerta sobre la carta de la Decana de la UdeC ("Red INTEEGRA-Saúde…", "presentada por la académica…") queda sin efecto.
+
+## 11. Cambios del 6-oct (tarde)
+- Cristian Díaz y Marlenne Macaya eliminados de formulario (1.5, 6.1, 6.2, 4.1) por decisión de René; la UCM sale de la propuesta (1.2, 4.1, 5.x, presupuesto/Gantt). Red de cinco instituciones.
+- Pendiente de René: institución nacional asociada de región distinta a la RM (requisito de bases); marcada en amarillo en 1.2 y 4.1. Si es de Biobío, falta carta nacional y datos.
+- 3.2: la frase de indicador de acceso con DEIS-MINSAL/FONASA se agrega solo si los datos se obtienen por transparencia.
+- Carta UCM eliminada.
